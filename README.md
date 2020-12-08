@@ -30,7 +30,7 @@ The easiest way to deploy this great bot! is click on button below
 Make sure you have an account of heroku and follow all the steps required.
 
 Deploy to Heroku:
-<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/sahyam2019/oub-remix/tree/sql-extended"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/Suraj-Suresh32/oub-remix/tree/sql-extended"> <img src="https://telegra.ph/file/2210442511a3e7f79f655.png" alt="Deploy to Heroku" /></a></p>
 
 ## Groups and support
 
