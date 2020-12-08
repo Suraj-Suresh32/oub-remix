@@ -1,7 +1,7 @@
-[![Build Status](https://travis-ci.com/sahyam2019/oub-remix.svg?branch=sql-extended)](https://travis-ci.com/sahyam2019/oub-remix) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/38fee611df7c4312be63a15cad64a50a)](https://www.codacy.com/manual/sahyam2019/oub-remix?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sahyam2019/oub-remix&amp;utm_campaign=Badge_Grade) ![Last Commit](https://img.shields.io/github/last-commit/sahyam2019/oub-remix) ![Contributers](https://img.shields.io/github/contributors/sahyam2019/oub-remix) ![Forks](https://img.shields.io/github/forks/sahyam2019/oub-remix)     
+
 # Project OpenUserBot Remix
 
-![logo](https://telegra.ph/file/b17eb811d1666426e7f3b.jpg)
+![logo](https://telegra.ph/file/2210442511a3e7f79f655.png)
 
 ```
 #include <std/disclaimer.h>
@@ -30,7 +30,7 @@ The easiest way to deploy this great bot! is click on button below
 Make sure you have an account of heroku and follow all the steps required.
 
 Deploy to Heroku:
-<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/Suraj-Suresh32/oub-remix/tree/sql-extended"> <img src="https://telegra.ph/file/2210442511a3e7f79f655.png" alt="Deploy to Heroku" /></a></p>
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/Suraj-Suresh32/oub-remix/tree/sql-extended"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 ## Groups and support
 
@@ -38,8 +38,8 @@ If you want new features, or announcements, you can follow our [oub-remix Channe
 
 For discussion, bug reporting, and help, you can join [oub-remix support Group](https://t.me/remixsupport).
 
-## How to setup Google Drive
-[![SetGDRIVE](https://telegra.ph/file/fde15d05e4bde3448b01a.png)](https://telegra.ph/How-To-Setup-Google-Drive-04-03)
+
+
 
 ## Credits
 
